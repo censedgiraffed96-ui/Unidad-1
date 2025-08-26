@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="Eva1_2_"/>
+        <attribute name="authors" value="Arath"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:10:21 p. m."/>
+        <attribute name="created" value="QXJhdGg7QVJBVEhDQUJSQUw7MjAyNS0wOC0yNjswNTowNjoyNiBwLiBtLjsyNzYx"/>
+        <attribute name="edited" value="QXJhdGg7QVJBVEhDQUJSQUw7MjAyNS0wOC0yNjswNToxMDoyMSBwLiBtLjsxOzI4NTk="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Arath Cabral&quot;" newline="True"/>
+            <output expression="1000" newline="True"/>
+            <output expression="52.3" newline="True"/>
+            <output expression="true" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
